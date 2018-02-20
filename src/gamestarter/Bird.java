@@ -7,7 +7,7 @@ package gamestarter;
 
 /**
  *
- * @author kyrylo
+ * @author kyrylo (build)
  */
  
  
