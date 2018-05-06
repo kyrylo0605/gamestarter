@@ -122,7 +122,7 @@ public class FlappyBird extends GraphicsProgram {
 				bird.draw(this);
 			
 			// This controls the speed of the game
-			pause(60);
+			pause(80);
 			
 		}
 	}
